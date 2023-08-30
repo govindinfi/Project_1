@@ -17,6 +17,6 @@ For a visual representation of the deployment architecture, refer to the followi
 
 (https://github.com/mingrammer/diagrams)
 
-<img src="https://github.com/govindinfi/Project_1/blob/main/aws_ecs_architecture_diagram.png" width="500" />
+<img src="https://github.com/govindinfi/Project_1/blob/main/aws_ecs_architecture_diagram.png" width="900" />
 
 Thank you!
