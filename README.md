@@ -5,6 +5,8 @@ This repository demonstrates how to deploy an AWS ECS cluster using Terraform, u
 
 Clone the main project repository.
 
+Create an AWS access key and secret key, then store them in the main.tf. You can utilize the AWS CLI for this process.
+
 Run the command `terraform init` to install the required providers.
 
 Run the command `terraform plan` to assess the status of the defined resources provisioning.
