@@ -1,7 +1,7 @@
-### AWS ECS Cluster Deployment with Terraform
+# AWS ECS Cluster Deployment with Terraform
 This repository demonstrates how to deploy an AWS ECS cluster using Terraform, utilizing the public Docker NGINX image for container deployment.
 
-# Steps
+## Steps
 
 Clone the main project repository.
 
@@ -11,7 +11,7 @@ Run the command `terraform plan` to assess the status of the defined resources p
 
 Run the command `terraform apply` to provision the defined resources.
 
-# Architecture Diagram
+## Architecture Diagram
 
 For a visual representation of the deployment architecture, refer to the following diagram created using diagrams:
 
